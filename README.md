@@ -37,6 +37,8 @@ Insulting journalists is part of Erdogan’s populist discourse, RSF said. He ha
 
 Verbal attacks are also a tactic of seven other “clearly populist” leaders. 
 
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~ayeemacaraig/1.embed"></iframe>
+
 Former Ecuadorian president Rafael Correa, the most populist politician in the database, called journalists “cowards” and “liars”. 
 
 Even before Trump popularized “fake news”, Venezuela’s Hugo Chávez attacked newspapers for “fake” reporting. 
